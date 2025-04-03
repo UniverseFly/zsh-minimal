@@ -8,6 +8,8 @@ Document my minimal zsh setup with [oh-my-zsh](https://ohmyz.sh) + [starship](ht
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+TIPS: `setopt magic_equal_subst` to enable autocompletion after "="
+
 ## Install plugins
 
 ```sh
